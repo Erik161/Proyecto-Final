@@ -165,7 +165,7 @@ function procedimiento(){
   alert ("El recargo Salario y de Propiedad es: Q." + recargo_extra )
   alert ("El total del seguro es de: Q." + precio_final+ "." )
   
-  var resultado = prompt("Para finalizar la cotización ingrese SALIR")
+  var resultado = prompt("Si desea realizar otra cotización ingrese SI, si desea salir ingrese SALIR")
   if("SALIR" == resultado.toUpperCase()){
     finalizar = false
   }
