@@ -18,3 +18,4 @@
 13. mostrar resultados
 14. preguntar si desea realizar otra cotización si la respuesta es si se vuelve a iniciar.
 15. Si escribe SALIR finaliza la cotización.
+
