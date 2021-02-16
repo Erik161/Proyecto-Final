@@ -5,8 +5,8 @@
 ### FUNCIÓN
 
 ```
-El siguiente proyecto esta enfocado en la cotización de seguro para una persona, donde le indica el calculo automatico 
-del precio del seguro.
+El siguiente proyecto esta enfocado en la cotización de seguro para una persona, 
+donde le indica el calculo automatico del precio del seguro.
 ```
 
 
